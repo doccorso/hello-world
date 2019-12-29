@@ -1,2 +1,2 @@
 <h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploy on a kubernetes with Ansible playbook </h2>
+<h2> Deploy on a kubernetes using Ansible </h2>
